@@ -20,7 +20,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/a/PWpBrD3/>
+<img src="https://i.imgur.com/OnPwWBa.png"/>
 <br />
 <br />
 Select the disk:  <br/>
