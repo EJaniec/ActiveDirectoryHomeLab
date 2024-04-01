@@ -28,7 +28,7 @@ Select the disk:  <br/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://imgur.com/3c0bb1e0-62c3-4a0c-9d12-41c3a3a1a994"/>
+<img src="https://i.imgur.com/mpmbmrl.png"/>
 <br />
 <br />
 Confirm your selection:  <br/>
