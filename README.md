@@ -24,7 +24,7 @@ Launch the utility: <br/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://imgur.com/a/9tfXGzA"/>
+<img src="https://i.imgur.com/8LN8i85.png"/>
 <br />
 <br />
 Enter the number of passes: <br/>
