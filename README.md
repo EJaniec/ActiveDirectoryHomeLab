@@ -14,7 +14,7 @@ In this project, I’ve created a home lab environment to explore and practice A
   
 <p align="center">
 Download the platform package to your specific OS: <br/>
-<img src="https://i.imgur.com/4ERCOi1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4ERCOi1.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
