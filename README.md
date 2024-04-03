@@ -12,12 +12,11 @@ In this project, I’ve created a home lab environment to explore and practice A
 1. Oracle VirtualBox Installation:
    - Begin by downloading and installing Oracle VirtualBox. This virtualization software will allow us to create and manage virtual machines (VMs) within our lab environment.
   
-     <p align="center">
-Launch the utility: <br/>
+   <p align="center">
+Download the platform package to your specific OS: <br/>
 <img src="https://i.imgur.com/4ERCOi1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
 
 2. Operating System ISOs:
    - Obtain the **Windows 10** and **Windows Server 2019** ISO files. These will serve as the installation media for our VMs.
