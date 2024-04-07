@@ -1,4 +1,4 @@
-<h1>Active Directory Home Lab</h1>
+<h1> Basic Home Lab Running Active Directory | Adding Users w/PowerShell</h1>
 
  ### Visual Representation
 
