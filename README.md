@@ -60,29 +60,27 @@ In this project, I’ve created a home lab environment to explore and practice A
 <h2>Adding Users w\Powershell walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/OnPwWBa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch Windows PowerShell ISE & Open 1_CREATE_USERS.ps1 document: <br/>
+<img src="https://i.imgur.com/CTe7ljM.png" height="80%" width="80%"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/8LN8i85.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enter Command "Set-ExecutionPolicy Unrestricted":  <br/>
+<img src="https://i.imgur.com/pH3sYr3.png" height="80%" width="80%" />
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/mpmbmrl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enter Command "cd C\users\a-ejaniec\desktop\AD-PS-master": <br/>
+<img src="https://i.imgur.com/G6hi06z.png" height="80%" width="80%" />
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/kZ1tcP7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Run Script:  <br/>
+<img src="https://i.imgur.com/K6daABX.png" height="80%" width="80%" />
 <br />
 <br />
-Wait for the process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/oCZkGNK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Watch the creation of Users from importing the Active Directory Module:  <br/>
+<img src="https://i.imgur.com/xD76l1Q.png" height="80%" width="80%" />
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/evNgchL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 
 <!--
  ```diff
